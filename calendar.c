@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 int main()
 {
   printf("Enter the date in format 'dd mm yyyy'\n");
